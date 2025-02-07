@@ -1,0 +1,259 @@
+[
+  {
+    "name":         "Tekki Shodan",
+    "kategorie":    "KATA",
+    "kyu":          "WEISS",
+    "kata":         "TEKKIKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=aud0TaiJd68&t=2s"
+  },
+  {
+    "name":         "Tekki Nidan",
+    "kategorie":    "KATA",
+    "kyu":          "GELB",
+    "kata":         "TEKKIKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=5Sxht3VCA2E"
+  },
+  {
+    "name":         "Tekki Sandan",
+    "kategorie":    "KATA",
+    "kyu":          "BLAU",
+    "kata":         "TEKKIKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=GzjsV-_sT8g"
+  },
+  {
+    "name":         "Kanku Dai",
+    "kategorie":    "KATA",
+    "kyu":          "SCHWARZ",
+    "kata":         "SHOTOKANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=q1F8L-3Ukh8"
+  },
+  {
+    "name":         "Kanku Sho",
+    "kategorie":    "KATA",
+    "kyu":          "SCHWARZ",
+    "kata":         "SHOTOKANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=UXs5WOmX5DE"
+  },
+  {
+    "name":         "Unsu",
+    "kategorie":    "KATA",
+    "kyu":          "SCHWARZ",
+    "kata":         "SHOTOKANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=Kb5MIpI55zU"
+  },
+  {
+    "name":         "Jion",
+    "kategorie":    "KATA",
+    "kyu":          "SCHWARZ",
+    "kata":         "SHOTOKANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=cgRBqWmfCHU"
+  },
+  {
+    "name":         "Heian Shodan",
+    "kategorie":    "KATA",
+    "kyu":          "GELB",
+    "kata":         "HEIANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=PDONkxaZk7A"
+  },
+  {
+    "name":         "Heian Nidan",
+    "kategorie":    "KATA",
+    "kyu":          "ORANGE",
+    "kata":         "HEIANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=UOF1G6eNx5w"
+  },
+  {
+    "name":         "Heian Godan",
+    "kategorie":    "KATA",
+    "kyu":          "BLAU",
+    "kata":         "HEIANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=1MpdsFLSs9Y"
+  },
+  {
+    "name":         "Taikyoku Shodan",
+    "kategorie":    "KATA",
+    "kyu":          "WEISS",
+    "kata":         "HEIANKATA",
+    "youtubeUrl":   "https://www.youtube.com/watch?v=jH6bv4GDpp0&t=0s"
+  },
+  {
+    "name":         "Uraken Uchi",
+    "kategorie":    "GRUNDSCHULE",
+    "kyu":          "GELB",
+    "grundschule":  "HANDANGNRIFF",
+    "steps": [
+      {
+        "nummer":     "1",
+        "text":       "Fange in der Grundposition an mit geschlossener Faust.\nUraken Uchi kann in zwei verschiedenen Formen ausgeführt werden: horizontal oder vertikal, hier jetzt horizontal."
+      },
+      {
+        "nummer":     "2",
+        "text":       "Ziehe die Arme übers Kreuz. \nHier wird mit Rechts geschlagen, also geht die rechte Hand zur linken Schulter. Die linke Hand geht zur rechten Hüftseite."
+      },
+      {
+        "nummer":     "3",
+        "text":       "Mit dem Arm, wo geschlagen wird geht der Ellbogen hoch, die Hand ist noch bei der Schulter.\nGleichzeitig ziehst du deine andere Hand von der gegenübere Hüftseite zur anderen Körperseite."
+      },
+      {
+        "nummer":     "4",
+        "text":       "Die Schlagtechnik mit dem Handrücken nutzt die Kraft aus der Schnappbewegung des Ellenbogens.\nDie Faust bleibt zu, der Arm wird schnell Ausgestreckt und wieder zurückgezogen."
+      },
+      {
+        "nummer":     "5",
+        "text":       "Nach dem Schlag bist du zurück in dieser Position. Von hier aus wieder zurück in die Grundstellung."
+      }
+    ]
+  },
+  {
+    "name":         "Yoko Empi",
+    "kategorie":    "GRUNDSCHULE",
+    "kyu":          "GRUEN",
+    "grundschule":  "HANDANGNRIFF",
+    "steps": [
+      {
+        "nummer":     "1",
+        "text":       "Als erstes ..."
+      },
+      {
+        "nummer":     "2",
+        "text":       "Als zweites ..."
+      },
+      {
+        "nummer":     "3",
+        "text":       "Als drittes ..."
+      },
+      {
+        "nummer":     "4",
+        "text":       "Als viertens ..."
+      },
+      {
+        "nummer":     "5",
+        "text":       "Als fünftens ..."
+      }
+    ]
+  },
+  {
+    "name":         "Uchi Uke",
+    "kategorie":    "GRUNDSCHULE",
+    "kyu":          "GELB",
+    "grundschule":  "HANDVERTEIDIGUNG",
+    "steps": [
+      {
+        "nummer":     "1",
+        "text":       "Als erstes ..."
+      },
+      {
+        "nummer":     "2",
+        "text":       "Als zweites ..."
+      },
+      {
+        "nummer":     "3",
+        "text":       "Als drittes ..."
+      }
+    ]
+  },
+  {
+    "name":         "Keri",
+    "kategorie":    "KUMITE",
+    "kyu":          "GRUEN",
+    "kumite":       "FUSS",
+    "steps": [
+      {
+        "nummer":     "1",
+        "text":       "Als erstes ..."
+      },
+      {
+        "nummer":     "2",
+        "text":       "Als zweites ..."
+      },
+      {
+        "nummer":     "3",
+        "text":       "Als drittes ..."
+      }
+    ]
+  },
+  {
+    "name":         "Tsuki",
+    "kategorie":    "KUMITE",
+    "kyu":          "BLAU",
+    "kumite":       "FUSS"
+  },
+  {
+    "name":         "Mae Geri",
+    "kategorie":    "KUMITE",
+    "kyu":          "WEISS",
+    "kumite":       "FUSS"
+  },
+  {
+    "name":         "Gyaku Zuki",
+    "kategorie":    "KUMITE",
+    "kyu":          "BLAU",
+    "kumite":       "HAND"
+  },
+  {
+    "name":         "Kizami Zuki",
+    "kategorie":    "KUMITE",
+    "kyu":          "ORANGE",
+    "kumite":       "HAND"
+  },
+  {
+    "name":         "Uke",
+    "kategorie":    "KUMITE",
+    "kyu":          "GELB",
+    "kumite":       "HAND"
+  },
+  {
+    "name":         "Morote Gari",
+    "kategorie":    "KUMITE",
+    "kyu":          "ORANGE",
+    "kumite":       "WERFEN"
+  },
+  {
+    "name":         "Irimi Nage",
+    "kategorie":    "KUMITE",
+    "kyu":          "BLAU",
+    "kumite":       "WERFEN"
+  },
+  {
+    "name":         "Deashi barai",
+    "kategorie":    "KUMITE",
+    "kyu":          "BRAUN",
+    "kumite":       "WERFEN"
+  },
+  {
+    "name":         "Yoko Kekomi Geri",
+    "kategorie":    "KIHONKUMITE",
+    "kyu":          "VIOLETT",
+    "KihonKumite":  "IPPON"
+  },
+  {
+    "name":         "Mawashi Geri",
+    "kategorie":    "KIHONKUMITE",
+    "kyu":          "BRAUN",
+    "KihonKumite":  "IPPON"
+  },
+  {
+    "name":         "Chudan Ippon",
+    "kategorie":    "KIHONKUMITE",
+    "kyu":          "GRUEN",
+    "KihonKumite":  "IPPON"
+  },
+  {
+    "name":         "Jodan",
+    "kategorie":    "KIHONKUMITE",
+    "kyu":          "GRUEN",
+    "KihonKumite":  "GOHON"
+  },
+  {
+    "name":         "Chudan Gohon",
+    "kategorie":    "KIHONKUMITE",
+    "kyu":          "BLAU",
+    "KihonKumite":  "GOHON"
+  },
+  {
+    "name":         "Mae Geri Gohon",
+    "kategorie":    "KIHONKUMITE",
+    "kyu":          "BLAU",
+    "KihonKumite":  "GOHON"
+  }
+]
